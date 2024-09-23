@@ -1,0 +1,7 @@
+name: ms-genai-beg-dev
+channels:
+ - defaults
+dependencies:
+- python=3
+- openai
+- python-dotenv
